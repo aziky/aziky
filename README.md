@@ -6,9 +6,9 @@
 
 - 🏫 I’m currently studying at **FPT University**
 
-- 🔭 I’m currently learning **ASP.NET Core API**
+- 🔭 I’m currently learning **ASP.NET Core API, Deploy, CI/CD**
 
-- 💬 Ask me about **Java, C#, SQL**
+- 💬 Ask me about **Java, C#, SQL, Deploy GCP**
 
 - 📫 How to reach me **hoangphamcam23@gmail.com**
 
