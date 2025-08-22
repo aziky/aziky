@@ -6,7 +6,7 @@
 
 - 🏫 I’m currently studying at **FPT University**
 
-- 🔭 I’m currently learning **ASP.NET Core API, Deploy, CI/CD**
+- 🔭 I’m currently working experience with **Spring Booot, Vertx, ASP.NET**
 
 - 💬 Ask me about **Java, C#, SQL, Deploy GCP**
 
